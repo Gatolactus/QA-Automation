@@ -1,0 +1,1 @@
+This is a mini QA Automation project in Python + Pytest + Playwright.
