@@ -1,0 +1,9 @@
+# test framework
+pytest==7.4.2
+
+# pytest plugins
+pytest-playwright==0.4.2
+allure-pytest==2.13.2
+
+# Playwright
+playwright==1.40.0
